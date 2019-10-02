@@ -1,4 +1,5 @@
 # PCIE104Z
+<img align="right" src=https://www.sundance.com/wp-content/uploads/docs/sundance_logo_105.png>
 This repository stores the PCIE104Z information
 
 # Managing the Repository
